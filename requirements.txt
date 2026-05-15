@@ -3,3 +3,7 @@ requests
 python-dotenv
 pillow
 deep-translator
+google-genai
+boto3
+azure-ai-textanalytics
+azure-core
